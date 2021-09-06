@@ -1,0 +1,36 @@
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\system on rent.dll.config
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\system on rent.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\system on rent.pdb
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\csc.exe
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\csc.exe.config
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\csc.rsp
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\csi.exe
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\csi.rsp
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\System.AppContext.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\vbc.exe
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\vbc.exe.config
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\vbc.rsp
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\VBCSCompiler.exe
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\obj\Debug\system on rent.csprojAssemblyReference.cache
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\obj\Debug\system on rent.csproj.CoreCompileInputs.cache
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\obj\Debug\system on rent.csproj.CopyComplete
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\obj\Debug\system on rent.dll
+C:\Users\S.S MIRZA\source\repos\system on rent\system on rent\obj\Debug\system on rent.pdb
